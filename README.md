@@ -24,7 +24,7 @@ Contributions are welcome! Feel free to fork the repository, make your changes, 
 
 ## Credits
 
-SETGRAPH Fitness Tracker was developed by [Your Name].
+SETGRAPH Fitness Tracker was developed by Ismail Khan Mohmand and Rayan Hussain.
 
 ## License
 
